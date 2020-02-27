@@ -21,3 +21,11 @@ code {
 	width: auto !important;
 	margin: 0 auto !important;
 }
+
+.navbar {
+	background-color: #0F0;
+}
+
+.MuiAppBar-colorPrimary-8{
+	background-color: #0F0;	
+}

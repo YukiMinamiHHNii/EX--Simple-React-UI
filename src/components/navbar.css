@@ -1,0 +1,8 @@
+#navbar{
+	background-color:#0F0;
+}
+
+#toolbar{
+	display: flex;
+	justify-content: center;
+}
